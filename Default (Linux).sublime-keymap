@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+shift+'"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+shift+å"], "command": "toggle_minimap" }
+]
